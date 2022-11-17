@@ -1,4 +1,5 @@
-# DHT
+# Restful DHT – Distributed Key Value Store ![image](https://user-images.githubusercontent.com/53114089/202521999-d820236c-06e6-47cb-98df-2fdea521d66b.png)
+
 
 EC2 instances - 3 Nodes
 <img width="1512" alt="Screen Shot 2022-11-17 at 12 48 54 PM" src="https://user-images.githubusercontent.com/53114089/202521551-775e6c82-b2bd-4911-8621-6c9a255df4c9.png">
